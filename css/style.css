@@ -1,0 +1,43 @@
+
+
+
+.container{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bekllon{
+    display: flex;
+align-items: center;
+background-color:#ECFFEB ;
+padding: 10px;
+
+
+}
+.tekin{
+ color: black;
+
+}
+.kosmo{
+    color: darkgreen;
+    font-size: 60px;
+   
+}
+
+.btn{
+    background-color: darkgreen;
+    color: cornsilk;
+    width: 204px ;
+    height: 45px;
+    border: none;
+
+}
+.btn1{
+    color: darkgreen;
+    width: 204px;
+    height: 45px;
+    border: none;
+
+
+
+}
